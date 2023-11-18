@@ -5,3 +5,7 @@ Pour push :
   git add {nom_du_fichier} / {.} (pour sélectionner tous les fichiers)
   git commit -m "{message du commit}"
   git push
+
+Pour créer une nouvelle branche et basculer dessus :
+    git branch {nom-de-la-branche}
+    git switch {nom-de-la-branche}
