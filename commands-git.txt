@@ -1,4 +1,7 @@
-git clone {repository URL}
-git push <remote> <branch>
-git push <remote> --force
-git push <remote> --tags
+Pour cloner un repo :
+  git clone {lien du repo}
+
+Pour push :
+  git add {nom_du_fichier} / {.} (pour sélectionner tous les fichiers)
+  git commit -m "{message du commit}"
+  git push
